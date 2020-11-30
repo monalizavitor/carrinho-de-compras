@@ -1,0 +1,23 @@
+{
+  "name": "carrinho-de-compras",
+  "version": "1.0.0",
+  "description": "Projeto proposto na quinta semana do bootcamp da {reprograma}.",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monalizavitor/carrinho-de-compras.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monalizavitor/carrinho-de-compras/issues"
+  },
+  "homepage": "https://github.com/monalizavitor/carrinho-de-compras#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
