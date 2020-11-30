@@ -19,11 +19,11 @@ Precisamos criar uma solução de um carrinho de compras.
 - Calcular o valor total (considerando o desconto do cupom)
 
 - Apresentar no console:
-  - a tabela contendo a lista de produtos adquiridos, incluindo a quantidade de cada produto
-  - o valor subtotal em Reais
-  - o valor do desconto em Reais
-  - o valor total em Reais
-  - a data da compra
+  - A tabela contendo a lista de produtos adquiridos, incluindo a quantidade de cada produto;
+  - O valor subtotal em Reais;
+  - O valor do desconto em Reais;
+  - O valor total em Reais;
+  - O data da compra;
 
 ### Regras
 
@@ -34,15 +34,15 @@ Precisamos criar uma solução de um carrinho de compras.
 - Validação de cupom de desconto. Não aceitar cupom acima de 15% de desconto.
 
 - Criação de uma classe chamada `Pedido` contendo no `constructor` pelo menos as seguintes informações:
-  - a lista de produtos
-  - o valor de cupom
-  - a data do pedido
+  - A lista de produtos
+  - O valor de cupom
+  - A data do pedido
 
 - A classe `Pedido` deve conter os métodos:
-  - que calcule a quantidade de itens totais no carrinho
-  - que calcule o valor subtotal (quantidade de itens multiplicado pelo preço unitário)
-  - que calcule o valor de desconto (subtotal multiplicado pelo desconto)
-  - que calcule o valor total (subtotal menos o desconto)
+  - Que calcule a quantidade de itens totais no carrinho
+  - Que calcule o valor subtotal (quantidade de itens multiplicado pelo preço unitário)
+  - Que calcule o valor de desconto (subtotal multiplicado pelo desconto)
+  - Que calcule o valor total (subtotal menos o desconto)
 
 
 ![resultado](https://raw.githubusercontent.com/reprograma/on6-xp-s5-projeto1-js/master/projeto/example.gif)
@@ -54,9 +54,9 @@ Precisamos criar uma solução de um carrinho de compras.
 
 ### Para testar
 
-1- Clone o repositório na usa máquina
+1- Clone o repositório na sua máquina $`git clone https://github.com/monalizavitor/carrinho-de-compras`
 
-2- Npm install
+2- Instale as dependências $`npm install`
 
 
 
